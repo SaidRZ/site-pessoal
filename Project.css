@@ -1,0 +1,78 @@
+body {
+    color: white;
+    background-color: black;  
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+/* ---- Imagem com minha foto no começo ------ */
+/* header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid green;
+} */
+
+.center {
+    text-align: center;
+    
+}
+
+h1 {
+    color: rgba(132, 255, 0, 0.605);
+    
+}
+
+h2 {
+    color: rgba(255, 8, 8, 0.47);
+}
+
+footer img {
+    border: white;
+    width: 30px;
+    height: 30px;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center; 
+
+}
+
+nav a:hover {
+    color: green;
+}
+
+
+.container {
+    padding: 0px 50px;
+
+}
+
+p {
+    display: flex;
+    text-align: auto;
+    padding: 0px 16px;
+}
+
